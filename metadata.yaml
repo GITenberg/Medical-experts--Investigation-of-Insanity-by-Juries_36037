@@ -1,0 +1,26 @@
+_repo: Medical-experts--Investigation-of-Insanity-by-Juries_36037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thorne, W. S.
+    gutenberg_agent_id: '38045'
+    url: http://www.gutenberg.org/2009/agents/38045
+description: ''
+gutenberg_issued: '2011-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insanity (Law)'
+- !lcc 'RA'
+- !lcsh 'Medical jurisprudence'
+- !lcsh 'Medicine -- California'
+title: 'Medical experts: Investigation of Insanity by Juries'
+url: http://www.gutenberg.org/ebooks/36037
